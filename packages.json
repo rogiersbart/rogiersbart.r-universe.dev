@@ -1,0 +1,10 @@
+[
+  {
+    "package": "RMODFLOW",
+    "url": "https://github.com/rogiersbart/RMODFLOW"
+  },
+  {
+    "package": "ti",
+    "url": "https://github.com/rogiersbart/ti"
+  }
+]
