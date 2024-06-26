@@ -1,10 +1,67 @@
 [
   {
-    "package": "RMODFLOW",
-    "url": "https://github.com/rogiersbart/RMODFLOW"
+    "package": "bro",
+    "url": "https://github.com/rogiersbart/bro"
+  },
+  {
+    "package": "std",
+    "url": "https://github.com/rogiersbart/std"
+  },
+  {
+    "package": "rui",
+    "url": "https://github.com/rogiersbart/rui"
+  },
+  {
+    "package": "ra",
+    "url": "https://github.com/rogiersbart/ra"
   },
   {
     "package": "ti",
     "url": "https://github.com/rogiersbart/ti"
+  },
+  {
+    "package": "spectralscale",
+    "url": "https://github.com/rogiersbart/spectralscale"
+  },
+  {
+    "package": "RMODFLOW",
+    "url": "https://github.com/rogiersbart/RMODFLOW"
+  },
+  {
+    "package": "RMT3DMS",
+    "url": "https://github.com/rogiersbart/RMT3DMS"
+  },
+  {
+    "package": "RMODPATH",
+    "url": "https://github.com/cneyens/RMODPATH"
+  },
+  {
+    "package": "nmhsa",
+    "url": "https://github.com/rogiersbart/nmhsa"
+  },
+  {
+    "package": "morphology",
+    "url": "https://github.com/rogiersbart/morphology"
+  },
+  {
+    "package": "cmdstanr",
+    "url": "https://github.com/stan-dev/cmdstanr"
+  },
+  {
+    "package": "raylibr",
+    "url": "https://github.com/rogiersbart/raylibr",
+    "branch": "prefix-class-names"
+  },
+  {
+    "package": "RDCOMClient",
+    "url": "https://github.com/omegahat/RDCOMClient"
+  },
+  {
+    "package": "rsthemes",
+    "url": "https://github.com/gadenbuie/rsthemes"
+  },
+  {
+    "package": "wateRinfo",
+    "url": "https://github.com/ropensci/wateRinfo"
   }
 ]
