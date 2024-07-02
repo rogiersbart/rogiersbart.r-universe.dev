@@ -44,24 +44,8 @@
     "url": "https://github.com/rogiersbart/morphology"
   },
   {
-    "package": "cmdstanr",
-    "url": "https://github.com/stan-dev/cmdstanr"
-  },
-  {
     "package": "raylibr",
     "url": "https://github.com/rogiersbart/raylibr",
     "branch": "prefix-class-names"
-  },
-  {
-    "package": "RDCOMClient",
-    "url": "https://github.com/omegahat/RDCOMClient"
-  },
-  {
-    "package": "rsthemes",
-    "url": "https://github.com/gadenbuie/rsthemes"
-  },
-  {
-    "package": "wateRinfo",
-    "url": "https://github.com/ropensci/wateRinfo"
   }
 ]

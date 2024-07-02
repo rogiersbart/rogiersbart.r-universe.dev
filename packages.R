@@ -22,11 +22,7 @@ df <- tibble::tribble(
           "nmhsa",                rb("nmhsa"),                   NA, NA,
      "morphology",           rb("morphology"),                   NA, NA,
 
-  # non-cran dependencies
-       "cmdstanr",    gh("stan-dev/cmdstanr"),                   NA, NA,
+  # dependencies not available elsewhere on r-universe
         "raylibr",              rb("raylibr"), "prefix-class-names", NA,
-    "RDCOMClient", gh("omegahat/RDCOMClient"),                   NA, NA,
-       "rsthemes",   gh("gadenbuie/rsthemes"),                   NA, NA,
-      "wateRinfo",   gh("ropensci/wateRinfo"),                   NA, NA,
 )
 jsonlite::write_json(df, 'packages.json', pretty = TRUE)
