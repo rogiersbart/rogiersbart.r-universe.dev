@@ -47,5 +47,9 @@
     "package": "raylibr",
     "url": "https://github.com/rogiersbart/raylibr",
     "branch": "prefix-class-names"
+  },
+  {
+    "package": "RDCOMClient",
+    "url": "https://github.com/BSchamberger/RDCOMClient"
   }
 ]
