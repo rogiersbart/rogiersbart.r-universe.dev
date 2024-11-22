@@ -24,6 +24,5 @@ df <- tibble::tribble(
 
   # dependencies not available elsewhere on r-universe
         "raylibr",                  rb("raylibr"), "prefix-class-names", NA,
-    "RDCOMClient", gh("BSchamberger/RDCOMClient"),                   NA, NA,
 )
 jsonlite::write_json(df, 'packages.json', pretty = TRUE)
